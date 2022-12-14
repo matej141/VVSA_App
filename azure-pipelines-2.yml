@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'VVSA_App/backend/Tests/tests.sln'
+  solution: 'VVSA_App/backend/Tests/tests/tests.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
