@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Velke appky\\csharp\\csharp.csproj": {}
+    "C:\\Users\\ciern\\WebstormProjects\\VVSA App\\backend\\csharp.csproj": {}
   },
   "projects": {
-    "C:\\Velke appky\\csharp\\csharp.csproj": {
+    "C:\\Users\\ciern\\WebstormProjects\\VVSA App\\backend\\csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Velke appky\\csharp\\csharp.csproj",
+        "projectUniqueName": "C:\\Users\\ciern\\WebstormProjects\\VVSA App\\backend\\csharp.csproj",
         "projectName": "csharp",
-        "projectPath": "C:\\Velke appky\\csharp\\csharp.csproj",
+        "projectPath": "C:\\Users\\ciern\\WebstormProjects\\VVSA App\\backend\\csharp.csproj",
         "packagesPath": "C:\\Users\\ciern\\.nuget\\packages\\",
-        "outputPath": "C:\\Velke appky\\csharp\\obj\\",
+        "outputPath": "C:\\Users\\ciern\\WebstormProjects\\VVSA App\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ciern\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
